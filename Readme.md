@@ -20,8 +20,6 @@ Our goal is to create a **fully decentralized and user-friendly** NFT marketplac
 - ✅ **Direct ownership transfers**  
 - ✅ **No third-party dependencies**  
 
-## Deployment
-### **Steps to Deploy on Ethereum**
-1. **Compile the contract**:  
-   ```sh
-   solc --optimize --bin NFTMarketplace.sol
+## Contract Address
+0xfae118580f719FE90962D7b46500feda87A98a10
+![image](https://github.com/user-attachments/assets/3d6f1a2e-cda2-4737-8f76-5d2a01fbf0e9)
