@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFT Marketplace</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.4/web3.min.js"></script>
+    <script defer src="app.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Decentralized NFT Marketplace</h1>
+        
+        <div class="actions">
+            <input type="text" id="nftAddress" placeholder="NFT Contract Address">
+            <input type="number" id="tokenId" placeholder="Token ID">
+            <input type="number" id="price" placeholder="Price (ETH)">
+            <button onclick="listNFT()">List NFT</button>
+        </div>
+        
+        <div id="marketplace">
+            <h2>Available NFTs</h2>
+            <div id="nftListings"></div>
+        </div>
+    </div>
+</body>
+</html>
