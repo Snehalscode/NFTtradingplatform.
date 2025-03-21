@@ -23,3 +23,4 @@ Our goal is to create a **fully decentralized and user-friendly** NFT marketplac
 ## Contract Address
 0xfae118580f719FE90962D7b46500feda87A98a10
 ![image](https://github.com/user-attachments/assets/3d6f1a2e-cda2-4737-8f76-5d2a01fbf0e9)
+![image](https://github.com/user-attachments/assets/9e694cf0-00be-4a2a-9a0b-05e469759ce7)
